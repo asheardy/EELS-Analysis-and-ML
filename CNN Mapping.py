@@ -20,7 +20,6 @@ np.random.seed(0)
 
 t0 = time.time()
 
-os.chdir("./CNN")
 # ene = np.load("ene.npy") #This loads the x values for plotting spectra, but is not used in this code
 
 def min_max_normalize(data):
