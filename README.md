@@ -1,4 +1,5 @@
 This repository contains three pieces of code, as described in DOI:
+
 The first "Open and process EELS data.py" allows for loading files from Digital Micrograph, and rapidly processing the data through background subtraction, Fourier-ratio deconvolution, and integrating the pi* and sigma* peaks.
 
 The second "Hybridization Mapping.py" allows for similar processing, and can also bin data to create hybridization maps
