@@ -1,4 +1,4 @@
-This repository contains three pieces of code, as described in DOI:
+This repository contains three pieces of code, as described in DOI: https://doi.org/10.1016/j.carbon.2024.119394
 
 The first "Open and process EELS data.py" allows for loading files from Digital Micrograph, and rapidly processing the data through background subtraction, Fourier-ratio deconvolution, and integrating the pi* and sigma* peaks.
 
